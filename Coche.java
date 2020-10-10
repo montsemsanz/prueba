@@ -1,5 +1,5 @@
 /**
- * Una clase que representa automóviles.
+ * Esta clase representa automóviles.
  * 
  */
 public class Coche
